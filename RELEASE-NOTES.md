@@ -2,6 +2,10 @@
 
 Silver is SonicDE's own icon theme, giving your apps, folders and settings a clean, consistent look.
 
+## 6.31.0.2 (2026-12-10)
+
+- The small SonicDE logo icon is back in the 24-pixel size, and the icon theme builds again.
+
 ## 6.31.0.1 (2026-11-10)
 
 - More icons, including the desktop shell's, now show SonicDE's branding.
