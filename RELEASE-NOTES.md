@@ -2,6 +2,10 @@
 
 Silver is SonicDE's own icon theme, giving your apps, folders and settings a clean, consistent look.
 
+## Unreleased
+
+- The Crashed Processes Viewer and crash reporter icons now turn light in Silver Dark, so they stay visible on dark backgrounds.
+
 ## 6.31.0.2 (2026-12-10)
 
 - The small SonicDE logo icon is back in the 24-pixel size, and the icon theme builds again.
